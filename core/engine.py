@@ -1,3 +1,8 @@
+"""
+
+Author: Visionis
+
+"""
 import numpy as np
 import logging
 import functools
