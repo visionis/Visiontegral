@@ -10,13 +10,6 @@
 
 *Architected by **Visionis***
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Visiontegral+Cinematic+Render+Placeholder" alt="Visiontegral Visualization Demo" width="100%">
-  <br>
-  <em>(Replace this placeholder with a GIF from your `visualization/animator.py` output)</em>
-</p>
-
-</div>
 
 ---
 
