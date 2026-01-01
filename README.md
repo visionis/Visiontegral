@@ -43,7 +43,7 @@ import visiontegral as vi
 
 # Initialize the infinite precision engine
 engine = vi.Core.Engine(precision="ultra")
-result = engine.solve("exp(-x^2)", limits=(-inf, inf))
+result = engine.solve("exp(-x^2)", limits=(-inf, inf))```
 
 ## Mathematical Depth
 ​The intersection of infinite integration and architectural vision. Every operation is audited for absolute stability in high-dimensional computational spaces.
