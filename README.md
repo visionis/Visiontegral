@@ -1,4 +1,4 @@
-## Visiontegral
+# Visiontegral
 <p align="center">
 <img src="docs/assets/bannerv.png" width="100%" alt="Visiontegral Banner">
 </p>
