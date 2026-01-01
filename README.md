@@ -52,7 +52,7 @@ result = engine.solve("exp(-x^2)", limits=(-inf, inf))
 The intersection of mathematical depth and architectural vision. Every operation within the kernel is audited to ensure absolute stability in high-dimensional computational spaces.
 
 <p align="center">
-  <img src="docs/assets/visiontegral.png" width="85%" alt="Visiontegral Logic Flow">
+  <img src="docs/visiontegral.png" width="85%" alt="Visiontegral Logic Flow">
 </p>
 
 <br>
