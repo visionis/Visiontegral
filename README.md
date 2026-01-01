@@ -26,16 +26,13 @@ Built on a modular kernel for maximum scalability:
 
 <br>
 
-## Deployment
-Initialize the environment via the standard CLI:
+## Computational Intelligence
+Visiontegral operates at the edge of mathematical possibility. By utilizing non-linear quadrature kernels and recursive stability audits, the framework transforms abstract singularities into actionable engineering data. This is not just integration; it is the architectural mastery of the infinite.
+<p align="center">
+<img src="docs/visiontegral.png" width="85%">
+</p>
+<p align="right">
+<strong>Engineered by Visionis</strong>
 
-```bash
-git clone [https://github.com/visionis/visiontegral.git](https://github.com/visionis/visiontegral.git)
-cd visiontegral && pip install -r requirements.txt.
-
-
-import visiontegral as vi
-
-engine = vi.Core.Engine(precision="ultra")
-result = engine.solve("exp(-x^2)", limits=(-inf, inf))
-
+<sub>Where mathematical depth meets architectural integrity.</sub>
+</p>
