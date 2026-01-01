@@ -31,7 +31,7 @@ Visiontegral operates at the edge of mathematical possibility. By utilizing non-
 <img src="docs/visiontegral.png" width="85%">
 </p>
 <p align="right">
-<strong>Engineered by Visionis</strong>
+
 
 <sub>Where mathematical depth meets architectural integrity.</sub>
 </p>
