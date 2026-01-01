@@ -1,4 +1,3 @@
-# Visiontegral
 
 <p align="center">
   <img src="docs/bannerv.png" width="100%">
