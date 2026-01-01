@@ -38,3 +38,31 @@ git clone [https://github.com/visionis/visiontegral.git](https://github.com/visi
 
 # Initialize environment
 cd visiontegral && pip install -r requirements.txt
+
+import visiontegral as vi
+
+# Initialize the infinite precision engine
+engine = vi.Core.Engine(precision="ultra")
+result = engine.solve("exp(-x^2)", limits=(-inf, inf))
+
+<br>
+
+## Computational Integrity
+
+The intersection of mathematical depth and architectural vision. Every operation within the kernel is audited to ensure absolute stability in high-dimensional computational spaces.
+
+<p align="center">
+  <img src="docs/assets/visiontegral.png" width="85%" alt="Visiontegral Logic Flow">
+</p>
+
+<br>
+
+---
+
+<p align="right">
+  <strong>Visionis</strong><br>
+  <sub>The abyss of integration is where vision begins.</sub>
+</p>
+
+
+
