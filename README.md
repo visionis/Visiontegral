@@ -86,27 +86,10 @@ To maintain the absolute authority of the results, Visiontegral enforces a rigor
 
 
 
----
-
-<p align="right">
-  <strong>Engineered by Visionis</strong><br>
-  <sub>Architecting the future of high-precision computational systems.</sub>
-</p>
-
-<br>
-
----
-
-## Computational Visualization Archive
-The following rendering demonstrates the system's ability to map non-linear integral manifolds within a high-dimensional dark-matter simulation environment.
-
 <p align="center">
   <img src="docs/visiontegral1.png" width="100%" alt="Visiontegral Computational Galaxy">
   <br>
-  <em>Figure 1.0: Spectral rendering of complex integral clusters within a deep-void galactic simulation.</em>
-</p>
-
-<br>
+  
 
 ---
 
