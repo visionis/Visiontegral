@@ -1,6 +1,6 @@
 # Visiontegral
 <p align="center">
-<img src="docs/assets/bannerv.png" width="100%" alt="Visiontegral Banner">
+<img src="docs/bannerv.png" width="100%" alt="Visiontegral Banner">
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Release-v1.0.0-blueviolet?style=for-the-badge" alt="Version">
