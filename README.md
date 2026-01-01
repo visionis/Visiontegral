@@ -82,11 +82,9 @@ To maintain the absolute authority of the results, Visiontegral enforces a rigor
 3. **Cross-Kernel Verification:** Results are periodically cross-verified against a secondary, independent precision kernel to ensure the absence of architectural bias or hardware-induced errors.
 4. **State Persistence:** The system maintains a rigorous state-check across all recursive calls, preventing the accumulation of floating-point drift during deep-void processing.
 
-<p align="center">
-  <img src="docs/assets/visiontegral.png" width="85%">
-</p>
 
-<br>
+
+
 
 ---
 
